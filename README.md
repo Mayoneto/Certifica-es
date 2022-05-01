@@ -1,2 +1,2 @@
-# Certifica-es
+# Certifições
 Meus certificados na área de TI/Programação
