@@ -1,0 +1,23 @@
+\"Meus Primeiros certificados"/
+
+Link Digital Innovation One: https://www.dio.me/sign-in
+
+1 - Primeiros Passos para Desenvolvimento Web 
+Carga Horária: 6 horas   / Conclusão: 10/01/2022
+
+2 - Lógica de Programação Essencial
+Carga Horária: 4 horas  / Conclusão: 16/02/2022
+
+3 - Estrutura de Dados e Algoritmos
+Carga Horária: 2 horas  / Conclusão: 22/02/2022
+
+4 - Pensamento Computacional
+Carga Horária: 2 horas  / COnclusão: 14/03/2022
+
+5 - Introdução ao Git e ao GitHub
+Carga Horária: 5 horas  / Conclusão: 21/03/2022
+
+6 - Desenvolvimento Mobile Nativo para Android
+Carga Horária: 2 horas  / Conclusão: 31/03/2022
+
+7 - 
